@@ -1,0 +1,20 @@
+{
+  "name": "dependency-scan",
+  "version": "1.0.0",
+  "description": "get actual dependencies looking at Your js code",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://fedeghe@github.com/fedeghe/dependency-scan.git"
+  },
+  "keywords": [
+    "dependency scan",
+    "dependency scanner"
+  ],
+  "author": "federico.ghedina@gmail.com",
+  "license": "MIT"
+}
